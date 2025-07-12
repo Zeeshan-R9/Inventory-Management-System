@@ -40,7 +40,7 @@ This system allows users to manage categories, items, suppliers, transactions, a
    ```bash
    git clone https://github.com/yourusername/inventory-management-system-java.git
    cd inventory-management-system-java
-````
+```
 
 2. **Open in IntelliJ IDEA / Eclipse**
 
