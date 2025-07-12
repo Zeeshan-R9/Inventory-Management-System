@@ -1,8 +1,4 @@
-Here’s a clean and professional `README.md` for your **Java-based Inventory Management System** project:
 
----
-
-```markdown
 # 📦 Inventory Management System (Java)
 
 A desktop-based inventory management application built in Java using Swing and JDBC.  
